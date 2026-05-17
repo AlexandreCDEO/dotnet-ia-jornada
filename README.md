@@ -15,7 +15,7 @@
 ---
 
 ### Fase 1 — Fundação
-- [ ] Desafio 01 — Setup + Health Check
+- [X] Desafio 01 — Setup + Health Check
 - [ ] Desafio 02 — CRUD em Memória
 - [ ] Desafio 03 — EF Core + SQLite
 - [ ] Desafio 04 — FluentValidation
