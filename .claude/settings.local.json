@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -X POST http://localhost:5001/api/products -H 'Content-Type: application/json' -d '{\"name\":\"\",\"price\":-5000,\"quantityInStock\":10}')",
+      "Bash(curl -X POST http://localhost:5001/api/products -H 'Content-Type: application/json' -d '{\"name\":\"Notebook\",\"price\":3500,\"quantityInStock\":5}')",
+      "Bash(curl -X POST http://localhost:5001/api/products -H 'Content-Type: application/json' -d '{\"name\":\"\",\"price\":100,\"quantityInStock\":5}')",
+      "Bash(curl -X POST http://localhost:5001/api/products -H 'Content-Type: application/json' -d '{\"name\":\"Produto\",\"price\":-10,\"quantityInStock\":5}')",
+      "Bash(curl http://localhost:5001/api/products)",
+      "Bash(curl -s -X POST http://localhost:5001/api/products -H 'Content-Type: application/json' -d '{\"name\":\"\",\"price\":-100,\"quantityInStock\":10}')",
+      "Bash(curl -s -X POST http://localhost:5001/api/products -H 'Content-Type: application/json' -d '{\"name\":\"Teclado Mecânico\",\"price\":450.50,\"quantityInStock\":8}')",
+      "Bash(curl -s http://localhost:5001/api/health)"
+    ]
+  }
+}
