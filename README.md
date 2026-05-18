@@ -16,7 +16,7 @@
 
 ### Fase 1 — Fundação
 - [X] Desafio 01 — Setup + Health Check
-- [ ] Desafio 02 — CRUD em Memória
+- [X] Desafio 02 — CRUD em Memória
 - [ ] Desafio 03 — EF Core + SQLite
 - [ ] Desafio 04 — FluentValidation
 - [ ] Desafio 05 — JWT + ASP.NET Identity
